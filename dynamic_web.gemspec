@@ -7,8 +7,8 @@ require "dynamic_web/version"
 Gem::Specification.new do |s|
   s.name        = "dynamic_web"
   s.version     = DynamicWeb::VERSION
-  s.authors     = ["TODO: Your name"]
-  s.email       = ["TODO: Your email"]
+  s.authors     = ["Matt McDermott"]
+  s.email       = ["mattmcdermott8@gmail.com"]
   s.homepage    = "TODO"
   s.summary     = "TODO: Summary of DynamicWeb."
   s.description = "TODO: Description of DynamicWeb."
